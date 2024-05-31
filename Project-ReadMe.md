@@ -8,3 +8,12 @@ This project forms part of the final project assessment for the Web Technologies
 - Resume: resume.html
 - Projects: projects.html
 - Sample Projects: mywork.html
+## Colour Scheme 
+| Name       | RGB           | HEX     |
+|------------|---------------|---------|
+| black      | 0, 0, 0       | #000000 |
+| white      | 255, 255, 255 | #FFFFFF |
+| cruise 500 | 49, 155, 133  | #319b85 |
+| cruise 100 | 212, 243, 233 | #d4f3e9 |
+| cruise 700 | 33, 100, 88   | #216458 |
+| cruise 400 | 74, 183, 157  | #4ab79d |
